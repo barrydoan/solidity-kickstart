@@ -27,11 +27,7 @@ class CampaignIndex extends Component {
   render() {
     return <Layout>
       <div>
-        <link
-          async
-          rel="stylesheet"
-          href="//cdn.jsdelivr.net/npm/semantic-ui@2.2.12/dist/semantic.min.css"
-        />
+
         <h3>Open Campaigns</h3>
 
         <Button
